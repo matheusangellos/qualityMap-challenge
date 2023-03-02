@@ -1,0 +1,22 @@
+{
+  "name": "qualitymap-challenge",
+  "version": "1.0.0",
+  "description": "QualityMap Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusangellos/qualityMap-challenge.git"
+  },
+  "author": "Matheus Angellos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheusangellos/qualityMap-challenge/issues"
+  },
+  "homepage": "https://github.com/matheusangellos/qualityMap-challenge#readme",
+  "devDependencies": {
+    "cypress": "^12.7.0"
+  }
+}
