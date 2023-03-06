@@ -12,7 +12,7 @@ let randomEmail = faker.internet.email();
 let randomCompanyName = faker.company.name();
 let randomPassword = faker.internet.password();
 
-Given(/^que eu acesso o site$/, () => {
+Given(/^que eu acesso o site do nopCommerce$/, () => {
 	cy.visit('https://demo.nopcommerce.com/');
 });
 

@@ -19,6 +19,7 @@
   "devDependencies": {
     "@badeball/cypress-cucumber-preprocessor": "^15.1.4",
     "@faker-js/faker": "^7.6.0",
+    "@testing-library/cypress": "^9.0.0",
     "cypress": "^12.7.0"
   },
   "dependencies": {
