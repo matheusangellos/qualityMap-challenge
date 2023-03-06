@@ -37,3 +37,8 @@ Para verificar a instalação/versão do gerenciador de pacoted NPM (deve retorn
 - Selecionar a opção *E2E Testing*
 - Selecionar o navegador de sua preferência (*Google Chrome recomendado*)
 - Executar o teste de sua preferência
+
+## O que pode ser aprimorado
+- Criação de novos usuários de forma automática, sem a necessidade de efetuar este passo de forma manual.
+- Tornar o usuário que efetua a reserva dinâmico, para que o mesmo não falhe caso seja executado mais de uma vez no mesmo dia.
+- Padronização dos seletores (foi utilizado mais de um tipo em caráter de amostragem de conhecimento apenas).
